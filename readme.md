@@ -15,4 +15,4 @@
 ## Projects
 
 ### Publisher
-* **[삼성 주니어 SW 아카데미]([https://github.com/angrydeveloper/hello](https://tkyoun0421.github.io/juniorsoftwareacademy/)https://tkyoun0421.github.io/juniorsoftwareacademy/)**
+* **[삼성 주니어 SW 아카데미]([https://tkyoun0421.github.io/juniorsoftwareacademy/])**
