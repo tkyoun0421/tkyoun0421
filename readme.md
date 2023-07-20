@@ -13,4 +13,6 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ## Projects
-* **[hello](https://github.com/angrydeveloper/hello)**
+
+### Publisher
+* **[삼성 주니어 SW 아카데미]([https://github.com/angrydeveloper/hello](https://tkyoun0421.github.io/juniorsoftwareacademy/)https://tkyoun0421.github.io/juniorsoftwareacademy/)**
