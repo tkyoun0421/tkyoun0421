@@ -15,7 +15,7 @@
 ## Projects
 
 ### 클론 코딩
-<a href="https://tkyoun0421.github.io/juniorsoftwareacademy" target="_blank">삼성 주니어 SW 아카데미 클론 코딩</a>
+<a href="https://tkyoun0421.github.io/juniorsoftwareacademy" target="_blank">삼성 주니어 SW 아카데미 클론 코딩</a> 2023년 1월 ~ 3월
 <br/>
 <a href="https://tkyoun0421.github.io/fursys/" target="_blank">fursys 클론 코딩</a>
 
