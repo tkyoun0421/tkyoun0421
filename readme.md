@@ -12,5 +12,5 @@
 ### 직원 프로필 관리 사이트
 <a href="https://kdt-fe-js-project.vercel.app/">Cookie 임직원 프로필 관리 사이트</a>
 
-### 쿠키 챗 (키워드를 이용한 채팅 서비스)
+### Cookie Chat (키워드를 이용한 채팅 서비스)
 <a href="">아직 배포 전입니다</a>
