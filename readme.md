@@ -3,8 +3,3 @@
 
 ## Github Stats
 ![tkyoun0421's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkyoun0421)
-
-## Projects
-
-### 클론 코딩
-<a href="https://tkyoun0421.github.io/KDT_FE_Toss_Clone_release/" target="_blank">Toss 클론 코딩</a>
