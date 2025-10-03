@@ -1,8 +1,13 @@
-# Hello world!
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fangrydeveloper&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Hello, There! 
 
-## Github Stats
-![tkyoun0421's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkyoun0421)
+## 📊 GitHub Stats
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkyoun0421&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MartinHeinz/MartinHeinz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tkyoun0421&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
+---
 
-### Blog
-https://velog.io/@tkyoun0421/posts
+## ✍️ Blog
+Blog: [Velog @tkyoun0421](https://velog.io/@tkyoun0421/posts)
