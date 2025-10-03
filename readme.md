@@ -3,3 +3,6 @@
 
 ## Github Stats
 ![tkyoun0421's GitHub stats](https://github-readme-stats.vercel.app/api?username=tkyoun0421)
+
+### Blog
+https://velog.io/@tkyoun0421/posts
